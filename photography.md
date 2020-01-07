@@ -6,7 +6,7 @@ icon: fa-camera
 order: 5
 ---
 
-A collection of my favorite photographs:
+I'm still figuring out how to best use my camera ouside of "Auto" mode, but here are some photographs I've taken that I'm pretty proud of:
 <body>
 <img src="assets/images/ADK_colors.jpg" alt="Fall in the Adirondacks" style="width:600px;height:400px;">
 <br>
@@ -57,10 +57,6 @@ A collection of my favorite photographs:
 <br>
 <br>
 <img src="assets/images/NorthernLights.jpg" alt="Iceland" style="width:600px;height:400px;">
-<br>
-<br>
-<br>
-<img src="assets/images/BowLake.jpg" alt="Banff" style="width:600px;height:400px;">
 <br>
 <br>
 <br>
