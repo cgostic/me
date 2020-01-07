@@ -43,7 +43,7 @@ url: "https://cgostic.github.io" # the base hostname & protocol for your site
 
 # Social settings
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
-linkedin_url: www.linkedin.com/in/cari-gostic
+linkedin_url: https://www.linkedin.com/in/cari-gostic
 github_url: https://github.com/cgostic
 
 # The following settings are NECESSARY for the Prologue theme to run:
