@@ -28,6 +28,10 @@ I'm still figuring out how to best use my camera ouside of "Auto" mode, but here
 <br>
 <br>
 <br>
+<img src="assets/images/Noctilucent.jpg" alt="Noctilucent Clouds" style="width:600px;height:400px;">
+<br>
+<br>
+<br>
 <img src="assets/images/MadSqPark.jpg" alt="Madison Square Park" style="width:600px;height:400px;">
 <br>
 <br>
