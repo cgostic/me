@@ -30,9 +30,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Hi there, I'm Cari!
-subtitle: Welcome to my website
-description: Here's a description
+title: Cari Gostic
+subtitle: Welcome to my website!
+description: 
 author: Cari Gostic
 email: cari.gostic@gmail.com
 avatar: assets/images/prof_pic.jpg
