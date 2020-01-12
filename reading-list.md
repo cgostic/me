@@ -1,12 +1,12 @@
 ---
 title: Reading List
-subtitle: a list of books I read
+subtitle: 
 layout: "page"
 icon: fa-book
 order: 4
 ---
 
-I love books! Here are some of my favorites:
+I love books! Here are some of my favorites from the past few years:
 
 - Garth Stein: *The Art of Racing in the Rain*
 - Neil Tyson: *Astrophysics for People in a Hurry*
