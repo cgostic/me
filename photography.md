@@ -69,4 +69,25 @@ I'm still figuring out how to best use my camera ouside of "Auto" mode, but here
 <br>
 <br>
 <img src="assets/images/birch_leaves.jpg" alt="ADK Autumn" style="width:600px;height:400px;">
+<br>
+<br>
+<br>
+<img src="assets/images/wedgemount.JPG" alt="Wedgemount glacier" style="width:600px;height:400px;">
+<br>
+<br>
+<br>
+<img src="assets/images/vancity.JPG" alt="Vancouver sunset" style="width:600px;height:400px;">
+<br>
+<br>
+<br>
+<img src="assets/images/puddle.JPG" alt="Vancouver reflection" style="width:600px;height:400px;">
+<br>
+<br>
+<br>
+<img src="assets/images/ship.JPG" alt="Wind on the Georgia Straight" style="width:600px;height:400px;">
+<br>
+<br>
+<br>
+<img src="assets/images/garibaldi.JPG" alt="Garibaldi Lake" style="width:600px;height:400px;">
 </body>
+
